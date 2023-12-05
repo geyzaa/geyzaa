@@ -1,4 +1,4 @@
-### Olá! Sou a Geyza Oliveira, iniciante no mundo da programação.
+### Olá! Sou a Geyza Oliveira, iniciante no mundo da programação. 🎈
 <div>
   <a href="">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geyzaa&show_icons=true&theme=radical"/>
